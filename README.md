@@ -15,7 +15,7 @@ Soy un **programador de software creativo** y **apasionado por la tecnología** 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Lenguaje más usados:
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noctambulo-12&hide_title=true&hide_border=true)
+![Your most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=noctambulo-12&hide_title=true&hide_border=true)
 
 </td></tr></table>
 
