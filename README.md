@@ -23,15 +23,3 @@ Soy un **programador de software creativo** y **apasionado por la tecnología** 
 
 ![](https://activity-graph.herokuapp.com/graph?username=noctambulo-12&theme=dracula&bg_color=ffffff&color=000000&line=b9b9b9&point=24292e&area=false&hide_border=true)
 
-
- <video id="video" class="video-js vjs-default-skin" preload="auto" autoplay muted controls>
-    <source src="https://joy1.videvo.net/videvo_files/video/free/2019-11/large_watermarked/190301_1_25_11_preview.mp4" type="video/mp4">
-  </video>
-  <script src="https://vjs.zencdn.net/7.10.1/video.js"></script>
-  <script>
-    document.addEventListener("DOMContentLoaded", function() {
-      var player = videojs("video", {
-        preload: "auto"
-      });
-    });
-  </script>
